@@ -1,6 +1,6 @@
 # OTU Cloud Computing - Milestone 4 Design Repository
 ### *Produced by Bralyn Loach-Perry*
-#### *Student ID: 100867075*
+#### *Ontario Tech Student ID: 100867075*
 
 This repository contains the working code designed for the design portion of the milestone assignment as shown in my demo video.
 
