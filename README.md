@@ -1,4 +1,4 @@
-# Cloud-Computing-Milestone-4-Submission
+# Cloud Computing - Milestone 4 Design Repository
 ### *Produced by Bralyn Loach-Perry*
 #### *Student ID: 100867075*
 
